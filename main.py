@@ -278,7 +278,7 @@ if "1" in options:
 
 if "2" in options:
 		cooltitles = "join"
-		server = int(input(" ═> Invite, eg discord.gg/kieronia, you'd type kieronia?\n ═> "))
+		server = input(" ═> Invite, eg discord.gg/kieronia, you'd type kieronia?\n ═> ")
 		with open(tokenfile, 'r') as f:
 				for line in f.readlines():
 						try:
