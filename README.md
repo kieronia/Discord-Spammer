@@ -1,7 +1,10 @@
 # Discord-Spammer
 ![ik your here to learn how to embed photos lol](https://i.imgur.com/xLIOkyn.png)
 
+![ik your here to learn how to embed photos lol](https://i.imgur.com/HxslopN.png)
+
 ![ik your here to learn how to embed photos lol](https://i.imgur.com/JBgqgo6.png)
+
 
 Uses requests to the discord api to "cause trouble"
 
